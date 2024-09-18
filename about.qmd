@@ -1,0 +1,22 @@
+---
+title: ""
+about: 
+  template: jolla
+  image: "images/Picture2.png"
+  links: 
+    - icon: github
+      href: https://github.com 
+---
+
+# Summary
+
+A steadfast companion for data scientists, I specialize in debugging complex algorithms through the ancient art of passive listening. Known for my unflappable demeanour, I assist in untangling messy code, sparking insights, and keeping data pipelines afloat. My experience spans a wide array of machine learning models and statistical quandaries, with a strong focus on asking no questions but providing all the answers.
+
+## Skills
+
+-   **Active Listening:** Supreme ability to absorb complex data science problems without judgment, allowing developers to clarify their thoughts.
+-   **Debugging Expertise:** Specializes in helping data scientists explain code issues to themselves, often leading to spontaneous epiphanies.
+-   **Code Logic Review:** Silent yet effective reviewer of logic flows in Python, R, and SQL.
+-   **Machine Learning:** Adept at standing by as data scientists process random forests, neural networks, and clustering techniques.
+-   **Patience:** Unrivalled endurance for lengthy explanations of code, logic loops, and edge cases without losing composure.
+
